@@ -1,0 +1,8 @@
+.ul {
+  padding: 31px 24px;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 25px;
+  max-height: 300px;
+  overflow: auto;
+}

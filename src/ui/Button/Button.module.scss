@@ -1,0 +1,39 @@
+.button {
+  padding: 10px 16px;
+  width: 166px;
+  height: 39px;
+  &_green {
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #058625;
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  &_grey {
+    color: #fff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 4px;
+    background: #5ca8ea;
+  }
+  &_red {
+    color: #fff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 4px;
+    background: #ff0000;
+  }
+}
